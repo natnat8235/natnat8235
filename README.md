@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Renato Estravela Jr.
+# 👋 Hey there, I'm Renato Labi Estravela Jr.
 
 I'm a BSIT graduate and passionate software developer on a mission to become one of the greatest in my time. I specialize in crafting clean, responsive UIs and meaningful digital experiences. Currently, I'm focused on real-time systems, design-driven development, and delivering projects that merge performance with style.
 
