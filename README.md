@@ -36,20 +36,6 @@
 
 ---
 
-### 🔥 Most Used Repos:
-[![GrizzlyX Repo](https://github-readme-stats.vercel.app/api/pin/?username=natnat8235&repo=grizzlyx&theme=shadow_blue)](https://github.com/natnat8235/grizzlyx)
-
----
-
-### ✨ Cool Badges:
-![](https://komarev.com/ghpvc/?username=natnat8235&label=PROFILE+VIEWS&color=blue&style=flat-square)
-
----
-
 ### 💰 Support:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/natnat8234) 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/estravela20)
 
----
-
-<sub>✨ Proudly created with [GPRM](https://gprm.itsvg.in)</sub>
