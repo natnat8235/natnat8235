@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://miro.medium.com/v2/resize:fit:640/format:webp/1*rv7bzPRCHMsOv1vI_gHyfg.gif](https://giphy.com)" width="600"/>
+  <img src="[https://miro.medium.com/v2/resize:fit:640/format:webp/1*rv7bzPRCHMsOv1vI_gHyfg.gif" width="600"/>
 </p>
 
 # 📊 GitHub Stats:
