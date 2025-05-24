@@ -4,7 +4,7 @@
   
   <tr>
     <td align="left" style="vertical-align:top;">
-      <img src="https://i.gifer.com/YGsg.gif" width="300px" />
+      <img src="https://i.gifer.com/YdBN.gif" width="300px" />
     </td>
     <td align="right">
       <img src="https://i.gifer.com/YGsg.gif" width="300px" />
