@@ -4,13 +4,13 @@
   
   <tr>
     <td align="left" style="vertical-align:top;">
-      <img src="https://i.gifer.com/YGsg.gif" width="220px" />
+      <img src="https://i.gifer.com/YGsg.gif" width="240px" />
     </td>
     <td align="center">
-      <img src="https://i.gifer.com/YGsg.gif" width="220px" />
+      <img src="https://i.gifer.com/YGsg.gif" width="240px" />
     </td>
         <td align="right">
-      <img src="https://i.gifer.com/YGsg.gif" width="220px" />
+      <img src="https://i.gifer.com/YGsg.gif" width="240px" />
     </td>
   </tr>
   
@@ -23,7 +23,7 @@
 - 🎓 BSIT Graduate from the Philippines 🇵🇭
 - 🛠 Currently building **GrizzlyX** – a real-time trade price alert system
 - ⚡ Fun Fact: I love turning ideas into real projects and I sketch UI before I code it!
-- 📫 Reach me: [estravela.renato1@gmail.com](emailto:estravela.renato1@gmail.com)
+- 📫 Reach me: [estravela.renato1@gmail.com](mailto:estravela.renato1@gmail.com)
 
 ---
 
