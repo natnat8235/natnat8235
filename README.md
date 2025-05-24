@@ -1,7 +1,7 @@
 # 👋 Hello world, I'm Renato Estravela Jr.
 
 <p align="left">
-   <img src="https://i.gifer.com/5GpD.gif" width="20%" />
+   <img src="https://i.gifer.com/5GpD.gif" width="100%" />
 </p>
 
 ---
