@@ -1,7 +1,5 @@
 # 👋 Hello world, I'm Renato Estravela Jr.
 
-# 👋 Hello world, I'm Renato Estravela Jr.
-
 ### 🧠 About Me:
 - 🎓 BSIT Graduate from the Philippines 🇵🇭
 - 🛠 Currently building **GrizzlyX** – a real-time trade price alert system
