@@ -4,9 +4,7 @@
   
   <tr>
     <td align="left" style="vertical-align:top;">
-      <p>🚀 A BSIT Graduate, Aspiring Software Developer & UI/UX Enthusiast</p>
-      <p>🎯 Focused on building real-time, high-impact web & mobile apps like <strong>GrizzlyX</strong></p>
-      <p>🎨 Passionate about clean code, sleek design, and intuitive user experiences</p>
+      <img src="https://i.gifer.com/YGsg.gif" width="300px" />
     </td>
     <td align="right">
       <img src="https://i.gifer.com/YGsg.gif" width="300px" />
