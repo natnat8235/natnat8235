@@ -1,7 +1,7 @@
 ## 👋 Hello world, I'm Renato Estravela Jr.
 
 <p align="center">
-   <img src="https://i.gifer.com/5GpD.gif" width="100%" />
+   <img src="https://i.gifer.com/5GpD.gif" width="20%" />
 </p>
 
 🚀 A BSIT Graduate, Aspiring Software Developer & UI/UX Enthusiast <br/>
