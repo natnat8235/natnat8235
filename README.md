@@ -2,7 +2,7 @@
 
 I'm a BSIT graduate and passionate software developer on a mission to become one of the greatest in my time. I specialize in crafting clean, responsive UIs and meaningful digital experiences. Currently, I'm focused on real-time systems, design-driven development, and delivering projects that merge performance with style.
 
----
+
 
 ## 🧠 About Me
 
@@ -12,7 +12,7 @@ I'm a BSIT graduate and passionate software developer on a mission to become one
 - ⚡ I love coding fast UIs, clean architecture, and tools that solve real-world problems  
 - 💼 Interned at **Veent**, contributing to a full landing page redesign with Agile teams  
 
----
+
 
 ## 💬 Ask me about
 
@@ -20,7 +20,7 @@ I'm a BSIT graduate and passionate software developer on a mission to become one
 - Frontend performance optimization
 - GrizzlyX and trading alert architecture
 
----
+
 
 ## ⚡ Fun fact
 
