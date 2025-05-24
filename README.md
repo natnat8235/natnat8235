@@ -8,7 +8,7 @@
       <p>🎨 Passionate about clean code, sleek design, and intuitive user experiences</p>
     </td>
     <td align="right">
-      <img src="https://i.gifer.com/YGsg.gif" width="200px" />
+      <img src="https://i.gifer.com/YdBN.gif" width="200px" />
     </td>
   </tr>
 </table>
