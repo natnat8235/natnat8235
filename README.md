@@ -1,16 +1,19 @@
 # 👋 Hello world, I'm Renato Estravela Jr.
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+<table>
   
-  <div align="left">
-    <h3>🚀 A BSIT Graduate, Aspiring Software Developer & UI/UX Enthusiast</h3>
-    <p>🎯 Focused on building real-time, high-impact web & mobile apps like <strong>GrizzlyX</strong></p>
-    <p>🎨 Passionate about clean code, sleek design, and intuitive user experiences</p>
-  </div>
-
-  <img src="https://i.gifer.com/YGsg.gif" width="200px" />
-
-</div>
+  <tr>
+    <td align="left" style="vertical-align:top;">
+      <p>🚀 A BSIT Graduate, Aspiring Software Developer & UI/UX Enthusiast</p>
+      <p>🎯 Focused on building real-time, high-impact web & mobile apps like <strong>GrizzlyX</strong></p>
+      <p>🎨 Passionate about clean code, sleek design, and intuitive user experiences</p>
+    </td>
+    <td align="right">
+      <img src="https://i.gifer.com/YGsg.gif" width="200px" />
+    </td>
+  </tr>
+  
+</table>
 
 
 ---
