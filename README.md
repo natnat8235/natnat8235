@@ -4,13 +4,13 @@
   
   <tr>
     <td align="left" style="vertical-align:top;">
-      <img src="https://i.gifer.com/YdBN.gif" width="200px" />
+      <img src="https://i.gifer.com/YGsg.gif" width="220px" />
     </td>
     <td align="center">
-      <img src="https://i.gifer.com/YGsg.gif" width="200px" />
+      <img src="https://i.gifer.com/YGsg.gif" width="220px" />
     </td>
         <td align="right">
-      <img src="https://i.gifer.com/YGsg.gif" width="200px" />
+      <img src="https://i.gifer.com/YGsg.gif" width="220px" />
     </td>
   </tr>
   
