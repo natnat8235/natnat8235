@@ -1,6 +1,6 @@
 ## 👋 Hello world, I'm Renato Estravela Jr.
 
-<p align="center">
+<p align="right">
    <img src="https://i.gifer.com/5RTG.gif" width="20%" />
 </p>
 
