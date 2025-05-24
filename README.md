@@ -1,4 +1,6 @@
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*rv7bzPRCHMsOv1vI_gHyfg.gif" width=100%"/>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*rv7bzPRCHMsOv1vI_gHyfg.gif" width="600"/>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=natnat8235&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
