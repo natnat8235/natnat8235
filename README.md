@@ -1,5 +1,61 @@
-# 💫 About Me:
-Hello world
+# 👋 Hey there, I'm Renato Estravela Jr.
+
+I'm a BSIT graduate and passionate software developer on a mission to become one of the greatest in my time. I specialize in crafting clean, responsive UIs and meaningful digital experiences. Currently, I'm focused on real-time systems, design-driven development, and delivering projects that merge performance with style.
+
+---
+
+## 🧠 About Me
+
+- 🎓 BSIT Graduate from the Philippines  
+- 🎨 UI/UX Design Enthusiast  
+- 🛠 Currently building [**GrizzlyX**](#) — a customizable real-time trading alert app  
+- ⚡ I love coding fast UIs, clean architecture, and tools that solve real-world problems  
+- 💼 Interned at **Veent**, contributing to a full landing page redesign with Agile teams  
+
+---
+
+## 🔭 I’m currently working on
+
+GrizzlyX — a real-time trading notification system for crypto, stocks, forex, and commodities. Fully customizable alerts with sound triggers, clean UI, and fast data handling.
+
+---
+
+## 🤝 I’m looking to collaborate on
+
+- UI/UX-focused apps
+- Frontend-heavy projects (Svelte, React, Tailwind)
+- Real-time data dashboards
+
+---
+
+## 🧠 I’m looking for help with
+
+- Complex chart integrations (e.g. candle, volume)
+- Cross-platform optimization (Web + Mobile)
+- Finetuning custom alert engine logic
+
+---
+
+## 🌱 I’m currently learning
+
+- SvelteKit + SSR
+- Advanced TypeScript patterns
+- WebSockets for live price feeds
+
+---
+
+## 💬 Ask me about
+
+- Building responsive UIs
+- Frontend performance optimization
+- GrizzlyX and trading alert architecture
+
+---
+
+## ⚡ Fun fact
+
+I named my app **GrizzlyX** after a bear — not for the bearish market, but because bears are fast, smart, and powerful. That’s the kind of dev I strive to be. 🐻💻
+
 
 
 # 💻 Tech Stack:
