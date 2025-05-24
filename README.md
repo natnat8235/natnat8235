@@ -1,10 +1,18 @@
 # 👋 Hello world, I'm Renato Estravela Jr.
 
-### 🧠 About Me:
-- 🎓 BSIT Graduate from the Philippines 🇵🇭
-- 🛠 Currently building **GrizzlyX** – a real-time trade price alert system
-- ⚡ Fun Fact: I love turning ideas into real projects and I sketch UI before I code it!
-- 📫 Reach me: [estravela.renato1@gmail.com](mailto:estravela.renato1@gmail.com)
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+  <div>
+    <h3>🧠 About Me:</h3>
+    <ul>
+      <li>🎓 BSIT Graduate from the Philippines 🇵🇭</li>
+      <li>🛠 Currently building <strong>GrizzlyX</strong> – a real-time trade price alert system</li>
+      <li>⚡ Fun Fact: I love turning ideas into real projects and I sketch UI before I code it!</li>
+      <li>📫 Reach me: <a href="mailto:estravela.renato1@gmail.com">estravela.renato1@gmail.com</a></li>
+    </ul>
+  </div>
+
+  <img src="https://i.gifer.com/5RTG.gif" alt="Coding Gif" width="220px" />
+</div>
 
 ---
 
