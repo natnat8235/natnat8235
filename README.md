@@ -14,36 +14,6 @@ I'm a BSIT graduate and passionate software developer on a mission to become one
 
 ---
 
-## 🔭 I’m currently working on
-
-GrizzlyX — a real-time trading notification system for crypto, stocks, forex, and commodities. Fully customizable alerts with sound triggers, clean UI, and fast data handling.
-
----
-
-## 🤝 I’m looking to collaborate on
-
-- UI/UX-focused apps
-- Frontend-heavy projects (Svelte, React, Tailwind)
-- Real-time data dashboards
-
----
-
-## 🧠 I’m looking for help with
-
-- Complex chart integrations (e.g. candle, volume)
-- Cross-platform optimization (Web + Mobile)
-- Finetuning custom alert engine logic
-
----
-
-## 🌱 I’m currently learning
-
-- SvelteKit + SSR
-- Advanced TypeScript patterns
-- WebSockets for live price feeds
-
----
-
 ## 💬 Ask me about
 
 - Building responsive UIs
