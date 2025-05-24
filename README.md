@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td align="left" style="vertical-align:top;">
+    <td align="center" style="vertical-align:top;">
       <p>🚀 A BSIT Graduate, Aspiring Software Developer & UI/UX Enthusiast</p>
       <p>🎯 Focused on building real-time, high-impact web & mobile apps like <strong>GrizzlyX</strong></p>
       <p>🎨 Passionate about clean code, sleek design, and intuitive user experiences</p>
