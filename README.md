@@ -1,4 +1,4 @@
-# 👋 Hello world, I'm Renato Estravela Jr. 🕸️
+# 👋 Hello world, I'm Renato Estravela Jr.
 
 <p align="left">
    <img src="https://i.gifer.com/YGsg.gif" width="20%" />
