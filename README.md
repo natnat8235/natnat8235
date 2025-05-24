@@ -23,7 +23,7 @@
 - 🎓 BSIT Graduate from the Philippines 🇵🇭
 - 🛠 Currently building **GrizzlyX** – a real-time trade price alert system
 - ⚡ Fun Fact: I love turning ideas into real projects and I sketch UI before I code it!
-- 📫 Reach me: [Click this Email](mailto:estravela.renato1@gmail.com)
+- 📫 Reach me: [estravela.renato1@gmail.com](gmailto:estravela.renato1@gmail.com)
 
 ---
 
