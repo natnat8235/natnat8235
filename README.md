@@ -27,7 +27,7 @@
 ---
 
 <p align="left">
-   <img src="https://i.gifer.com/5GpD.gif" width="100%" />
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*rv7bzPRCHMsOv1vI_gHyfg.gif" width="100%" />
 </p>
 
 ---
