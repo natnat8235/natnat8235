@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*rv7bzPRCHMsOv1vI_gHyfg.gif" width="600"/>
-</p>
+<iframe src="https://giphy.com/embed/HyOOyynWxMxig" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/depressed-mugen-HyOOyynWxMxig">via GIPHY</a></p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=natnat8235&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
