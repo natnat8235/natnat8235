@@ -1,21 +1,8 @@
 # 👋 Hello world, I'm Renato Estravela Jr.
 
-<table>
-  
-  <tr>
-    <td align="left" style="vertical-align:top;">
-      <img src="https://i.gifer.com/YGsg.gif" width="250px" />
-    </td>
-    <td align="center">
-      <img src="https://i.gifer.com/YGsg.gif" width="250px" />
-    </td>
-        <td align="right">
-      <img src="https://i.gifer.com/YGsg.gif" width="250px" />
-    </td>
-  </tr>
-  
-</table>
-
+<p align="left">
+   <img src="https://i.gifer.com/5GpD.gif" width="20%" />
+</p>
 
 ---
 
