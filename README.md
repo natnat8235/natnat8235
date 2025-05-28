@@ -12,13 +12,13 @@
 [![](https://github-profile-trophy.vercel.app/?username=natnat8235&theme=onestar&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-<div align="center">
 
 ### 📊 GitHub Stats:
+
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=natnat8235&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=natnat8235&theme=shadow_blue&hide_border=false)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=natnat8235&theme=shadow_blue&hide_border=false&layout=compact)
-
 </div>
 
 
