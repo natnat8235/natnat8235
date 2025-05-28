@@ -5,7 +5,7 @@
 - 🛠 Currently building **GrizzlyX** – a real-time trade price alert system
 - ⚡ Fun Fact: I love turning ideas into real projects and I sketch UI before I code it!
 - 📫 Reach me: [estravela.renato1@gmail.com](mailto:estravela.renato1@gmail.com)
-
+https://github.com/natnat8235/natnat8235/blob/main/README.md
 ---
 
 ### 🏆 GitHub Achievements:
@@ -13,12 +13,15 @@
 
 ---
 
-### 📊 GitHub Stats:
 
 <div align="center">
+
+ ### 📊 GitHub Stats:
+ 
 ![](https://github-readme-stats.vercel.app/api?username=natnat8235&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=natnat8235&theme=shadow_blue&hide_border=false)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=natnat8235&theme=shadow_blue&hide_border=false&layout=compact)
+
 </div>
 
 
