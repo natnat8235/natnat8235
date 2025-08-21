@@ -1,4 +1,4 @@
-# Hello World, I'm **Renato Labi Estravela Jr.** 👋
+# Hello World 🌍
 
 ### 🧠 About Me:
 - 🎓 BSIT Graduate from the Philippines
